@@ -76,6 +76,7 @@ Ces filtres permettent une analyse dynamique selon les sites de production et le
 - Visualisations (bar charts, pie charts, KPI cards)
 
 ---
+![Graphique du dashboard](images/graphique.jpeg)
 
 ## Conclusion
 
