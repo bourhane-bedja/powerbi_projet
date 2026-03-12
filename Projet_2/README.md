@@ -16,7 +16,7 @@
 ---
 
 ## Objectif du projet
-Ce projet analyse l’évolution mensuelle des ventes de cinq fruits — **abricots, bananes, fraises, pêches et pommes** - afin de :
+Ce projet analyse l’évolution mensuelle des ventes de cinq fruits - **abricots, bananes, fraises, pêches et pommes** - afin de :
 
 - détecter les tendances clés,  
 - comprendre les variations saisonnières,  
