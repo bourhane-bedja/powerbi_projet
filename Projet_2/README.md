@@ -1,4 +1,4 @@
-#  Analyse des ventes de fruits par mois (Power BI)
+#  Analyse des ventes de fruits par mois
 
 ##  Objectif du projet
 L’objectif de ce projet est d’analyser l’évolution mensuelle des ventes de cinq fruits — **abricots, bananes, fraises, pêches et pommes** — afin d’identifier les tendances, les variations saisonnières et les produits les plus performants.  
@@ -25,7 +25,8 @@ Elle met en évidence :
 - Les **fruits les plus stables** (ex. pêches)
 - Les **variations fortes** ( abricots entre janvier et mai)
 
-![Graphique des ventes de fruits](images/fruits)
+![Graphique des ventes de fruits](images/fruits.png)
+
 
 
 ---
