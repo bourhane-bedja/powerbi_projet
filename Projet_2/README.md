@@ -1,95 +1,117 @@
-#  Analyse des ventes de fruits par mois
-
-##  Objectif du projet
-L’objectif de ce projet est d’analyser l’évolution mensuelle des ventes de cinq fruits — **abricots, bananes, fraises, pêches et pommes** — afin d’identifier les tendances, les variations saisonnières et les produits les plus performants.  
-Cette analyse permet de mieux comprendre les comportements de consommation et d’optimiser les décisions commerciales.
+# 🍏 Analyse des ventes de fruits par mois  
+### *Projet Power BI — Version Premium (Style MacOS)*
 
 ---
 
-##  Données utilisées
-Les données utilisées couvrent la période **janvier à juillet**, avec pour chaque fruit :
-
-- Le montant des ventes mensuelles (en euros)
-- Une comparaison directe entre les cinq produits
-- Une visualisation permettant d’identifier les pics et baisses de performance
+## 🧭 Sommaire
+- [🎯 Objectif du projet](#-objectif-du-projet)
+- [📁 Données utilisées](#-données-utilisées)
+- [📈 Visualisation principale](#-visualisation-principale)
+- [🔍 Analyse des tendances](#-analyse-des-tendances)
+- [🛠️ Méthodologie Power BI](#️-méthodologie-power-bi)
+- [📦 Fichiers du projet](#-fichiers-du-projet)
+- [🧠 Enseignements clés](#-enseignements-clés)
+- [🏁 Conclusion](#-conclusion)
 
 ---
 
-##  Visualisation principale
+## 🎯 Objectif du projet
+Ce projet analyse l’évolution mensuelle des ventes de cinq fruits — **abricots, bananes, fraises, pêches et pommes** — afin de :
 
-Cette visualisation Power BI présente l’évolution des ventes mensuelles pour chaque fruit.  
-Elle met en évidence :
+- détecter les tendances clés,  
+- comprendre les variations saisonnières,  
+- identifier les produits les plus performants,  
+- soutenir les décisions commerciales (stocks, promotions, prévisions).
 
-- Les **pics de ventes** ( pommes en juin–juillet
-- Les **baisses saisonnières** ( fraises en mai–juin)
-- Les **fruits les plus stables** (ex. pêches)
-- Les **variations fortes** ( abricots entre janvier et mai)
+L’objectif est de fournir une vision claire, synthétique et exploitable pour la prise de décision.
+
+---
+
+## 📁 Données utilisées
+**Période analysée : janvier → juillet**
+
+Les données incluent :
+
+- les montants mensuels des ventes (en euros),  
+- une comparaison directe entre les cinq fruits,  
+- des variations permettant d’identifier pics et baisses.
+
+---
+
+## 📈 Visualisation principale
+
+Cette visualisation Power BI met en évidence :
+
+- **Pics de ventes** : pommes en juin–juillet  
+- **Baisses saisonnières** : fraises en mai–juin  
+- **Stabilité** : pêches  
+- **Variations fortes** : abricots entre janvier et mai  
 
 ![Graphique des ventes de fruits](images/fruits.jpeg)
 
-
-
 ---
 
-##  Analyse des tendances
+## 🔍 Analyse des tendances
 
-###  Abricots  
+### 🍊 Abricots  
 - Très fortes ventes en janvier (2 319 €)  
 - Baisse progressive jusqu’en mai  
 - Légère remontée en juin  
 
-###  Bananes  
-- Stables mais en baisse entre janvier et mars  
-- Reprise légère en avril puis stabilisation  
+### 🍌 Bananes  
+- Déclin entre janvier et mars  
+- Reprise en avril  
+- Stabilisation ensuite  
 
-### Fraises  
-- Montée en début d’année  
+### 🍓 Fraises  
+- Progression en début d’année  
 - Chute marquée en mai–juin  
-- Légère reprise en juillet  
+- Reprise légère en juillet  
 
-### Pêches  
-- Très bonnes performances globales  
+### 🍑 Pêches  
+- Performances élevées et régulières  
 - Pic en avril (2 429 €)  
-- Niveau élevé et stable sur toute la période  
+- Stabilité sur toute la période  
 
-###  Pommes  
-- Très faibles ventes en février–mars  
-- Explosion à partir d’avril  
-- Meilleur fruit en juin–juillet (jusqu’à 2 454 €)
+### 🍏 Pommes  
+- Faibles ventes en février–mars  
+- Forte hausse à partir d’avril  
+- Meilleur fruit en juin–juillet (2 454 €)
 
 ---
 
-##  Méthodologie 
+## 🛠️ Méthodologie Power BI
 
 - Importation et nettoyage des données  
-- Création d’un modèle simple (table unique)  
-- Construction d’un graphique en courbes multi‑catégories  
+- Construction d’un modèle simple (table unique)  
+- Création d’un graphique en courbes multi‑catégories  
 - Mise en forme visuelle (couleurs, étiquettes, titres)  
 - Analyse comparative des tendances  
 
 ---
 
-##  Fichiers du projet
+## 📦 Fichiers du projet
 
-- `dashboard.pbix` → fichier Power BI complet  
-- `images/` → captures du graphique  
-- `data/` (optionnel) → données sources si tu veux les ajouter  
-
----
-
-##  Enseignements clés
-
-- Les **pommes** sont le fruit le plus performant sur la période.  
-- Les **fraises** montrent une forte saisonnalité avec une chute nette en milieu d’année.  
-- Les **pêches** restent globalement stables et élevées.  
-- Les **abricots** connaissent une baisse continue après janvier.  
-- Les **bananes** restent régulières mais moins performantes que les autres fruits.
+- `dashboard.pbix` → rapport Power BI complet  
+- `images/fruits.jpeg` → graphique principal  
+- `data/` (optionnel) → données sources  
 
 ---
 
-##  Conclusion
+## 🧠 Enseignements clés
 
-Ce projet démontre l’utilisation de Power BI pour analyser des données simples mais riches en enseignements.  
-La visualisation permet de comprendre rapidement les tendances et d’orienter les décisions commerciales (stocks, promotions, saisonnalité).
+- Les **pommes** dominent largement la période.  
+- Les **fraises** présentent une forte saisonnalité.  
+- Les **pêches** sont les plus régulières et performantes.  
+- Les **abricots** chutent après un excellent mois de janvier.  
+- Les **bananes** restent stables mais moins performantes.  
 
+---
+
+## 🏁 Conclusion
+
+Ce projet illustre l’utilisation de Power BI pour analyser des données simples mais riches en enseignements.  
+La visualisation permet d’identifier rapidement les tendances clés et d’orienter les décisions commerciales liées à la saisonnalité, aux stocks et aux stratégies de vente.
+
+---
 
