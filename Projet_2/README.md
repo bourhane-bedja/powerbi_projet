@@ -3,15 +3,15 @@
 
 ---
 
-## 🧭 Sommaire
-- [🎯 Objectif du projet](#-objectif-du-projet)
-- [📁 Données utilisées](#-données-utilisées)
-- [📈 Visualisation principale](#-visualisation-principale)
-- [🔍 Analyse des tendances](#-analyse-des-tendances)
+##  Sommaire
+- [ Objectif du projet](#-objectif-du-projet)
+- [ Données utilisées](#-données-utilisées)
+- [Visualisation principale](#-visualisation-principale)
+- [ Analyse des tendances](#-analyse-des-tendances)
 - [🛠️ Méthodologie Power BI](#️-méthodologie-power-bi)
-- [📦 Fichiers du projet](#-fichiers-du-projet)
-- [🧠 Enseignements clés](#-enseignements-clés)
-- [🏁 Conclusion](#-conclusion)
+- [ Fichiers du projet](#-fichiers-du-projet)
+- [Enseignements clés](#-enseignements-clés)
+- [ Conclusion](#-conclusion)
 
 ---
 
