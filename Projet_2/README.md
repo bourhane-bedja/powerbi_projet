@@ -90,13 +90,6 @@ Cette visualisation Power BI met en évidence :
 
 ---
 
-## Fichiers du projet
-
-- `dashboard.pbix` → rapport Power BI complet  
-- `images/fruits.jpeg` → graphique principal  
-- `data/` (optionnel) → données sources  
-
----
 
 ## 🧠 Enseignements clés
 
