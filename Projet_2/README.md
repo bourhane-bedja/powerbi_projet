@@ -25,8 +25,7 @@ Elle met en évidence :
 - Les **fruits les plus stables** (ex. pêches)
 - Les **variations fortes** ( abricots entre janvier et mai)
 
-![Graphique des ventes de fruits](images/fruits.jpg)
-
+![Graphique des ventes de fruits](images/fruits.jpeg)
 
 
 
@@ -60,7 +59,7 @@ Elle met en évidence :
 
 ---
 
-##  Méthodologie Power BI
+##  Méthodologie 
 
 - Importation et nettoyage des données  
 - Création d’un modèle simple (table unique)  
