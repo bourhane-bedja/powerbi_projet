@@ -25,7 +25,8 @@ Elle met en évidence :
 - Les **fruits les plus stables** (ex. pêches)
 - Les **variations fortes** ( abricots entre janvier et mai)
 
-![Graphique des ventes de fruits](images/fruits.png)
+![Graphique des ventes de fruits](images/fruits.jpg)
+
 
 
 
