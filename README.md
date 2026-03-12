@@ -1,4 +1,4 @@
-# Analyse des Marges et Coûts de Production – Dashboard Power BI
+# Analyse des Marges et Coûts de Production 
 
 Ce projet Power BI présente une analyse complète des performances financières de trois produits (Tablette A, B et C).  
 L’objectif est d’évaluer la rentabilité, les marges unitaires, les coûts de production et la contribution de chaque produit au chiffre d’affaires global.
