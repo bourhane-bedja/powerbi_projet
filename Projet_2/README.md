@@ -1,5 +1,5 @@
-# 🍏 Analyse des ventes de fruits par mois  
-### *Projet Power BI — Version Premium (Style MacOS)*
+# Analyse des ventes de fruits par mois  
+
 
 ---
 
@@ -15,8 +15,8 @@
 
 ---
 
-## 🎯 Objectif du projet
-Ce projet analyse l’évolution mensuelle des ventes de cinq fruits — **abricots, bananes, fraises, pêches et pommes** — afin de :
+## Objectif du projet
+Ce projet analyse l’évolution mensuelle des ventes de cinq fruits — **abricots, bananes, fraises, pêches et pommes** - afin de :
 
 - détecter les tendances clés,  
 - comprendre les variations saisonnières,  
@@ -27,7 +27,7 @@ L’objectif est de fournir une vision claire, synthétique et exploitable pour 
 
 ---
 
-## 📁 Données utilisées
+##  Données utilisées
 **Période analysée : janvier → juillet**
 
 Les données incluent :
@@ -38,7 +38,7 @@ Les données incluent :
 
 ---
 
-## 📈 Visualisation principale
+##  Visualisation principale
 
 Cette visualisation Power BI met en évidence :
 
@@ -51,7 +51,7 @@ Cette visualisation Power BI met en évidence :
 
 ---
 
-## 🔍 Analyse des tendances
+##  Analyse des tendances
 
 ### 🍊 Abricots  
 - Très fortes ventes en janvier (2 319 €)  
@@ -80,7 +80,7 @@ Cette visualisation Power BI met en évidence :
 
 ---
 
-## 🛠️ Méthodologie Power BI
+##  Méthodologie Power BI
 
 - Importation et nettoyage des données  
 - Construction d’un modèle simple (table unique)  
@@ -90,7 +90,7 @@ Cette visualisation Power BI met en évidence :
 
 ---
 
-## 📦 Fichiers du projet
+## Fichiers du projet
 
 - `dashboard.pbix` → rapport Power BI complet  
 - `images/fruits.jpeg` → graphique principal  
